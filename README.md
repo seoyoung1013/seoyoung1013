@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Seoyoung Github !&fontSize=90" />
 <h1 align="center">Hi 👋, I'm seoyoung</h1>
 <h3 align="center">💻 A Backend Developer</h3>
 
