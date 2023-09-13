@@ -2,9 +2,10 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=ffccf1&height=240&text=SeoYoung%20Github!&animation=fadeIn&fontColor=ffffff&fontSize=70" />
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎈Introducution </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 💻 A Backend Developer</li> </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎈Introducution </h2>
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> Hello ✋ I'm Seo Young, majoring in medical IT engineering at SCH (Suncheonhyang University).</li> </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 💻 A Backend Developer</li> </div> 
+
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
